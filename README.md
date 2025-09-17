@@ -22,10 +22,6 @@ To download the latest version of the NebulasVPN client:
 - Windows 10 or later
 - Internet connection for download
 
-## CI/CD Status
-
-[![Build and Release](https://github.com/impresacloud/nebulas-utilities/actions/workflows/nebulas-vpn-installer-build-and-release.yml/badge.svg)](https://github.com/impresacloud/nebulas-utilities/actions/workflows/nebulas-vpn-installer-build-and-release.yml)
-
 ---
 
 # Download Client NebulasVPN
@@ -51,7 +47,3 @@ Per scaricare l'ultima versione del client NebulasVPN:
 
 - Windows 10 o successivo
 - Connessione Internet per il download
-
-## Stato CI/CD
-
-[![Build e Rilascio](https://github.com/impresacloud/nebulas-utilities/actions/workflows/nebulas-vpn-installer-build-and-release.yml/badge.svg)](https://github.com/impresacloud/nebulas-utilities/actions/workflows/nebulas-vpn-installer-build-and-release.yml)
